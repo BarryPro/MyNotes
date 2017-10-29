@@ -20,4 +20,5 @@ git push origin master
 ```
 
 
-
+### 三、GitHub使用注意
+1. GitHub默认是不显示空文件夹得
