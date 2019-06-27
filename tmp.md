@@ -1,5 +1,14 @@
 1. 10.34：注解不支持模块范围
 
+
+## collapsible markdown?
+
+<details>
+<summary>CLICK ME</summary>
+
+**<summary>标签与正文间一定要空一行！！！**
+</details>
+
    ![img](file:///var/folders/3b/d9smmxhd7zbfg_fksx3zj7f40000gn/T/WizNote/9704d4ce-1f9f-41c5-b6f7-98de7fbfec42/index_files/38101042.png)是maven的各个模块之间出现了循环的依赖关系,是由于在pom项目下添加了pom依赖导致的
 
 2. 11.11：使用maven的thrift进行编译：编译命令是 mvn thrift:complie（前提是本地已经配置好thrift-0.8版本的thrift了，这条命令可以直接在IDEA中执行如图）
